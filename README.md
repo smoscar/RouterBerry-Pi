@@ -1,4 +1,4 @@
-#RouterBerry Pi
+# RouterBerry Pi
 
 ** Turn your Raspberry Pi into a WiFi Router. This set of instructions will guide you to install and configure the packages needed to advertise it as a WiFi network and finally use it as a 2.4G WiFi router. **
 
